@@ -48,6 +48,6 @@
 ### 📊 GitHub
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=wemnt&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wemnt&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="150" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="150" />
 </p>

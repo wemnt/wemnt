@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./guts-berserk.gif" alt="Guts" />
+</p>
+
 <h1 align="center">Артем</h1>
 
 <p align="center"><b>Python backend developer</b></p>
@@ -6,6 +10,10 @@
   <a href="https://wemnt.dev"><img src="https://img.shields.io/badge/wemnt.dev-000?style=for-the-badge&logo=googlechrome&logoColor=fff" /></a>
   <a href="https://t.me/wemnt"><img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=fff" /></a>
   <a href="mailto:wemnts@gmail.com"><img src="https://img.shields.io/badge/wemnts@gmail.com-000?style=for-the-badge&logo=gmail&logoColor=fff" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wemnt&label=profile%20views&color=000000&style=flat-square" />
 </p>
 
 ---

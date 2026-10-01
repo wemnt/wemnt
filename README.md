@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./guts-berserk.gif" alt="Guts" />
+  <img src="./guts-berserk.gif" width="100%" alt="Guts" />
 </p>
 
 <h1 align="center">Артем</h1>
